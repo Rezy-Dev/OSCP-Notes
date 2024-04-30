@@ -2,6 +2,7 @@
 
 * [👋 Welcome](README.md)
 
-## Introduction
+## ℹ️ Main
 
-* [Syllabus](introduction/syllabus.md)
+* [Syllabus](main/syllabus.md)
+* [Resources](main/resources.md)
