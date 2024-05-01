@@ -26,6 +26,12 @@
 * [Persisting Active Directory](active-directory/persisting-active-directory.md)
 * [Credentials Harvesting](active-directory/credentials-harvesting.md)
 
-## Group 1
+## Web Application Security
 
-* [Page 1](group-1/page-1.md)
+* [Web App Enumeration](web-application-security/web-app-enumeration.md)
+* [Cross Site Scripting (XSS)](web-application-security/cross-site-scripting-xss.md)
+* [SQL Injection](web-application-security/sql-injection.md)
+* [Directory Traversal](web-application-security/directory-traversal.md)
+* [File Inclusion Vulnerability](web-application-security/file-inclusion-vulnerability.md)
+* [File Upload Vulnerability](web-application-security/file-upload-vulnerability.md)
+* [Command Injection](web-application-security/command-injection.md)
