@@ -7,6 +7,11 @@
 * [Syllabus](main/syllabus.md)
 * [Resources](main/resources.md)
 
+## 📨 Information Gathering
+
+* [Active Information Gathering](information-gathering/active-information-gathering.md)
+* [Passive Information Gathering](information-gathering/passive-information-gathering.md)
+
 ## 🪟 Active Directory
 
 * [Breaching Active Directory](active-directory/breaching-active-directory.md)
