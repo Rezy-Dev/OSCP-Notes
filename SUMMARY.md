@@ -51,3 +51,8 @@
 
 * [Linux](file-transfer/linux.md)
 * [Windows](file-transfer/windows.md)
+
+## 🔑 Password Attacks
+
+* [Brute-forcing Services Logons](password-attacks/brute-forcing-services-logons.md)
+* [Cracking the Hashes](password-attacks/cracking-the-hashes.md)
