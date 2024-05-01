@@ -12,6 +12,11 @@
 * [Active Information Gathering](information-gathering/active-information-gathering.md)
 * [Passive Information Gathering](information-gathering/passive-information-gathering.md)
 
+## 🕴️ Privilege Escalation
+
+* [Linux Privilege Escalation](privilege-escalation/linux-privilege-escalation.md)
+* [Windows Privilege Escalation](privilege-escalation/windows-privilege-escalation.md)
+
 ## 🪟 Active Directory
 
 * [Breaching Active Directory](active-directory/breaching-active-directory.md)
@@ -20,3 +25,7 @@
 * [Exploiting Active Directory](active-directory/exploiting-active-directory.md)
 * [Persisting Active Directory](active-directory/persisting-active-directory.md)
 * [Credentials Harvesting](active-directory/credentials-harvesting.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
