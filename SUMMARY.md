@@ -23,11 +23,6 @@
   * [MSSQL (1433)](information-gathering/service-enumeration/mssql-1433.md)
   * [ORACLE (1521)](information-gathering/service-enumeration/oracle-1521.md)
 
-## 🕴️ Privilege Escalation
-
-* [Linux Privilege Escalation](privilege-escalation/linux-privilege-escalation.md)
-* [Windows Privilege Escalation](privilege-escalation/windows-privilege-escalation.md)
-
 ## 🕸️ Web Application Security
 
 * [Web App Enumeration](web-application-security/web-app-enumeration.md)
@@ -38,15 +33,6 @@
 * [File Upload Vulnerability](web-application-security/file-upload-vulnerability.md)
 * [Command Injection](web-application-security/command-injection.md)
 
-## 🪟 Active Directory
-
-* [Breaching Active Directory](active-directory/breaching-active-directory.md)
-* [Enumerating Active Directory](active-directory/enumerating-active-directory.md)
-* [Lateral Movement and Pivoting](active-directory/lateral-movement-and-pivoting.md)
-* [Exploiting Active Directory](active-directory/exploiting-active-directory.md)
-* [Persisting Active Directory](active-directory/persisting-active-directory.md)
-* [Credentials Harvesting](active-directory/credentials-harvesting.md)
-
 ## 📂 File Transfer
 
 * [Linux](file-transfer/linux.md)
@@ -56,3 +42,17 @@
 
 * [Brute-forcing Services Logons](password-attacks/brute-forcing-services-logons.md)
 * [Cracking the Hashes](password-attacks/cracking-the-hashes.md)
+
+## 🕴️ Privilege Escalation
+
+* [Linux Privilege Escalation](privilege-escalation/linux-privilege-escalation.md)
+* [Windows Privilege Escalation](privilege-escalation/windows-privilege-escalation.md)
+
+## 🪟 Active Directory
+
+* [Breaching Active Directory](active-directory/breaching-active-directory.md)
+* [Enumerating Active Directory](active-directory/enumerating-active-directory.md)
+* [Lateral Movement and Pivoting](active-directory/lateral-movement-and-pivoting.md)
+* [Exploiting Active Directory](active-directory/exploiting-active-directory.md)
+* [Persisting Active Directory](active-directory/persisting-active-directory.md)
+* [Credentials Harvesting](active-directory/credentials-harvesting.md)
