@@ -4,13 +4,24 @@
 
 ## ℹ️ Main
 
-* [Syllabus](main/syllabus.md)
 * [Resources](main/resources.md)
 
 ## 📨 Information Gathering
 
 * [Active Information Gathering](information-gathering/active-information-gathering.md)
 * [Passive Information Gathering](information-gathering/passive-information-gathering.md)
+* [Service Enumeration](information-gathering/service-enumeration/README.md)
+  * [SMB](information-gathering/service-enumeration/smb.md)
+  * [SNMP](information-gathering/service-enumeration/snmp.md)
+  * [NFS](information-gathering/service-enumeration/nfs.md)
+  * [SMTP](information-gathering/service-enumeration/smtp.md)
+  * [FTP](information-gathering/service-enumeration/ftp.md)
+  * [DNS](information-gathering/service-enumeration/dns.md)
+  * [TELNET](information-gathering/service-enumeration/telnet.md)
+  * [MYSQL](information-gathering/service-enumeration/mysql.md)
+  * [POP3](information-gathering/service-enumeration/pop3.md)
+  * [MSSQL](information-gathering/service-enumeration/mssql.md)
+  * [ORACLE](information-gathering/service-enumeration/oracle.md)
 
 ## 🕴️ Privilege Escalation
 
@@ -35,3 +46,8 @@
 * [Exploiting Active Directory](active-directory/exploiting-active-directory.md)
 * [Persisting Active Directory](active-directory/persisting-active-directory.md)
 * [Credentials Harvesting](active-directory/credentials-harvesting.md)
+
+## 📂 File Transfer
+
+* [Linux](file-transfer/linux.md)
+* [Windows](file-transfer/windows.md)
