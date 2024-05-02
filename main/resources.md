@@ -163,5 +163,11 @@ description: Here, I will be adding all the resources that I will be using to le
 
 ## Active Directory
 
+* [https://tryhackme.com/r/hacktivities/practice](https://tryhackme.com/r/hacktivities/practice)
+* [https://tryhackme.com/module/hacking-active-directory](https://tryhackme.com/module/hacking-active-directory)
+* [https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) (AD Section)
+* [https://book.hacktricks.xyz/windows-hardening/active-directory-methodology](https://book.hacktricks.xyz/windows-hardening/active-directory-methodology)
+* [https://zer1t0.gitlab.io/posts/attacking\_ad/](https://zer1t0.gitlab.io/posts/attacking\_ad/)
+
 ***
 
