@@ -12,9 +12,26 @@ description: Here, I will be adding all the resources that I will be using to le
 
 ## Information Gathering
 
+* [https://www.linkedin.com/pulse/uncovering-hidden-importance-information-gathering-penetration-1f/](https://www.linkedin.com/pulse/uncovering-hidden-importance-information-gathering-penetration-1f/)
+* [https://dev.to/fawazkh80/information-gathering-in-penetration-testing-25ak](https://dev.to/fawazkh80/information-gathering-in-penetration-testing-25ak)
+* [https://medium.com/@tahahisoglu/information-gathering-in-black-box-tests-cd669f55526e](https://medium.com/@tahahisoglu/information-gathering-in-black-box-tests-cd669f55526e)
+* [https://github.com/tr0nucf/My-Tools/blob/master/Penetration%20Testing%201%20-%20Information%20Gathering.md](https://github.com/tr0nucf/My-Tools/blob/master/Penetration%20Testing%201%20-%20Information%20Gathering.md)
+
 ### Active Information Gathering
 
+* [https://blog.adriapt.xyz/posts/OSCP-7/](https://blog.adriapt.xyz/posts/OSCP-7/)
+* [https://hackertarget.com/nmap-tutorial/](https://hackertarget.com/nmap-tutorial/)
+* [https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/)
+* [https://tryhackme.com/r/room/furthernmap](https://tryhackme.com/r/room/furthernmap)
+* [https://tryhackme.com/r/room/intermediatenmap](https://tryhackme.com/r/room/intermediatenmap)
+* [https://tryhackme.com/module/nmap](https://tryhackme.com/module/nmap)
+* [https://tryhackme.com/r/room/activerecon](https://tryhackme.com/r/room/activerecon)
+
 ### Passive Information Gathering
+
+* [https://blog.adriapt.xyz/posts/OSCP-6/](https://blog.adriapt.xyz/posts/OSCP-6/)
+* [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
+* [https://tryhackme.com/r/room/passiverecon](https://tryhackme.com/r/room/passiverecon)
 
 ***
 
@@ -144,29 +161,7 @@ description: Here, I will be adding all the resources that I will be using to le
 
 ***
 
-## Active Directory Introduction and Enumeration
-
-### Active Directory Manual Enumeration
-
-### Manual Enumeration Expanding our Repertoire
-
-### Active Directory Automated Enumeration
-
-***
-
-## Attacking Active Directory Authentication
-
-### Understanding Active Directory Authentication
-
-### Performing Attacks on Active Directory Authentication
-
-***
-
-## Lateral Movement in Active Directory
-
-### Active Directory LAteral Movement Techniques
-
-### Active Directory Persistence
+## Active Directory
 
 ***
 
