@@ -8,8 +8,7 @@
 
 ## 📨 Information Gathering
 
-* [Active Information Gathering](information-gathering/active-information-gathering.md)
-* [Passive Information Gathering](information-gathering/passive-information-gathering.md)
+* [Nmap](information-gathering/nmap.md)
 * [Service Enumeration](information-gathering/service-enumeration/README.md)
   * [SMB (139, 445)](information-gathering/service-enumeration/smb-139-445.md)
   * [SNMP (161, 162)](information-gathering/service-enumeration/snmp-161-162.md)

@@ -1,2 +1,0 @@
-# Passive Information Gathering
-
