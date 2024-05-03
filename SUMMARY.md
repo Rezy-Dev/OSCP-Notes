@@ -2,10 +2,6 @@
 
 * [👋 Welcome](README.md)
 
-## ℹ️ Main
-
-* [Resources](main/resources.md)
-
 ## 🌟 Quick
 
 * [Reverse shell](quick/reverse-shell.md)
