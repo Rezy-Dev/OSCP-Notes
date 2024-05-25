@@ -24,16 +24,6 @@
   * [MSSQL (1433)](information-gathering/service-enumeration/mssql-1433.md)
   * [ORACLE (1521)](information-gathering/service-enumeration/oracle-1521.md)
 
-## 🕸️ Web Application Security
-
-* [Web App Enumeration](web-application-security/web-app-enumeration.md)
-* [Cross Site Scripting (XSS)](web-application-security/cross-site-scripting-xss.md)
-* [SQL Injection](web-application-security/sql-injection.md)
-* [Directory Traversal](web-application-security/directory-traversal.md)
-* [File Inclusion Vulnerability](web-application-security/file-inclusion-vulnerability.md)
-* [File Upload Vulnerability](web-application-security/file-upload-vulnerability.md)
-* [Command Injection](web-application-security/command-injection.md)
-
 ## 📂 File Transfer
 
 * [Linux](file-transfer/linux.md)
