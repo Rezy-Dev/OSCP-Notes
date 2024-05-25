@@ -6,7 +6,7 @@ Welcome to Raunak Neupane's GitBook!
 
 Hey there! I'm <mark style="color:blue;">Raunak Neupane</mark>, a cybersecurity enthusiast hailing from the beautiful country of Nepal. 🏔️&#x20;
 
-Here, I document my learning notes using GitBook. It includes network penetration testing, web application security, and more. Through structured cheat-sheet styled notes.
+Here, I document my learning notes using GitBook.
 
 Feel free to reach out to me at [<mark style="color:purple;">mail@raunak-neupane.com.np</mark>](mailto:mail@raunak-neupane.com.np) for any inquiries, collaborations, or just to say hello! 📧
 
