@@ -4,8 +4,6 @@
 
 ## 🌟 Quick
 
-* [Reverse shell](quick/reverse-shell.md)
-* [PHP Reverse Shell](quick/php-reverse-shell.md)
 * [TTY Spawn Shell](quick/tty-spawn-shell.md)
 
 ## 📨 Information Gathering
