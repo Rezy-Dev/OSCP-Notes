@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/wallhaven-x6y18v_1920x1080.png
+coverY: 0
+---
+
 # 👋 Welcome
 
 Welcome to Raunak Neupane's GitBook!
